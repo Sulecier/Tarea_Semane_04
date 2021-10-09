@@ -1,0 +1,37 @@
+.centrado{
+    text-align: center;
+    
+}
+
+#titulo_azul{
+    color:blue;
+}
+
+.texto_verde{
+    color:green;
+}
+
+#fondo_amarillo_negrita{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.fondo_gris{
+    background:grey;
+}
+
+div{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#parrafo_oblicuo{
+    font-style: oblique;
+}
+
+#parrafo_izquierda{
+    text-align: left;
+}
+
+.derecha{
+    text-align: right;
+}
